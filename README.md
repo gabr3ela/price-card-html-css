@@ -1,24 +1,24 @@
-💳 Price Card – HTML & CSS
+# 💳 Price Card – HTML & CSS
+
 Projeto front-end desenvolvido com HTML e CSS focado na criação de um componente visual do tipo cartão de preços (price card).
 
-✨ Objetivo
-
+## ✨ Objetivo
 Praticar:
-Estruturação de layout com HTML
-Estilização e design com CSS
-Organização de código front-end
-Criação de componentes de interface
+- Estruturação de layout com HTML
+- Estilização e design com CSS
+- Organização de código front-end
+- Criação de componentes de interface
 
-🚀 Funcionalidades
-Card de preço estilizado
-Layout clean e moderno
-Estrutura semântica em HTML
+## 🚀 Funcionalidades
+- Card de preço estilizado
+- Layout clean e moderno
+- Estrutura semântica em HTML
 
-💻 Tecnologias
+## 💻 Tecnologias
 
-HTML
-CSS
+- HTML
+- CSS
 
-📌 Autor
+## 📌 Autor
 
 Gabriela
